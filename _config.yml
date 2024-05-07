@@ -20,7 +20,7 @@
 
 title: Щепелев Николай
 email: shepelevnikolay97@gmail.com
-baseurl: "/portfolio-gh-pages/" # the subpath of your site, e.g. /blog
+baseurl: "/portfolio-gh-pages" # the subpath of your site, e.g. /blog
 url: "https://shepelevn.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: shepelevn
 
