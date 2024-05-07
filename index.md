@@ -5,4 +5,4 @@ title: Мои портфолио
 
 ---
 
-* [Разработчик PHP / Fullstack-разработчик](/backend)
+* [Разработчик PHP / Fullstack-разработчик]({{ site.baseurl }}{% link backend.md %})
