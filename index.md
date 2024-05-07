@@ -1,9 +1,8 @@
 ---
 
 layout: home
+title: Мои портфолио
 
 ---
-
-# Мои портфолио
 
 * [Разработчик PHP / Fullstack-разработчик](/backend)
