@@ -59,6 +59,8 @@ permalink: /backend
 
 **Ссылка на приложение**: <https://coin-gules.vercel.app>
 
+**Логин**: `developer` **Пароль**: `skillbox`
+
 **Исходный код**: <https://github.com/shepelevn/coin/tree/master/frontend>
 
 ## CRM система
